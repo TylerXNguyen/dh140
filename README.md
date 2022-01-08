@@ -2,7 +2,7 @@
 
 ## Tyler Nguyen
 
-Currently I am a Statistics major at UCLA, planned to graduate in 2022.
+Currently I am a Statistics major at UCLA, planned to graduate in Spring 2022.
 
 ### Description about Digital Humanities 140 (dh140)
 
