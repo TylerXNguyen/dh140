@@ -1,1 +1,0 @@
-The requirements.txt file should contain the Python libraries necessary to execute your notebook.
